@@ -1,0 +1,1 @@
+{"rustc":3062648155896360161,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[3746573929696391749,"build_script_build",false,14550571599267271652]],"local":[{"RerunIfChanged":{"output":"debug\\build\\rayon-core-c498bc4f7ad9827f\\output","paths":["build.rs"]}}],"rustflags":["-C","link-arg=advapi32.lib"],"config":0,"compile_kind":0}

@@ -1,0 +1,1 @@
+{"rustc":3062648155896360161,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[18408407127522236545,"build_script_build",false,5934401167421903008]],"local":[{"RerunIfChanged":{"output":"debug\\build\\getrandom-edc948fbc82bf783\\output","paths":["build.rs"]}}],"rustflags":["-C","link-arg=advapi32.lib"],"config":0,"compile_kind":0}
